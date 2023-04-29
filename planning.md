@@ -7,7 +7,7 @@ is what I got. Today (day 1) is 29th of April.
 ### Phase 1: Set up development environment and basic game loop (2 weeks) 13 May
 
 1. [X] Research and install Rust and its package manager, Cargo.
-2. [ ] Create a new Rust project and set up dependencies for window creation and input handling.
+2. [X] Create a new Rust project and set up dependencies for window creation and input handling.
 3. [ ] Build a basic game loop that renders a black window and handles user input.
 4. [ ] Research and integrate the Snake game logic into the game loop.
 
